@@ -1,4 +1,4 @@
-# Classification-of-Corn-Leaf-Diseases-Using-a-CNN-and-an-Ensemble-Classifier-
+# ClassificationofCornLeafDiseases_UsingCNNandEnsembleClassifier
 Automatic classification of corn leaf diseases based on digital images using MobileNetV2 as a feature extractor and two ensemble classifier models: Random Forest and XGBoost. This study aims to support the digital transformation of the agricultural sector in order to achieve smart agriculture and national food security. 
 
 Classification of Corn Leaf Diseases Using CNN and Ensemble Classifiers
